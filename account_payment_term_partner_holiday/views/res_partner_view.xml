@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <odoo>
     <record id="view_res_partner_form_holiday_ids" model="ir.ui.view">
         <field name="name">res.partner.holiday_ids</field>
